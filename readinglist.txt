@@ -9,3 +9,14 @@ https://www.w3schools.com/sql/sql_insert.asp
 https://realpython.com/python-sql-libraries/
 https://stackoverflow.com/questions/734689/sqlite-primary-key-on-multiple-columns
 https://softwareengineering.stackexchange.com/questions/91760/how-to-be-a-good-citizen-when-crawling-web-sites
+https://stackoverflow.com/questions/7003832/checking-for-attributes-in-beautifulsoup
+https://stackoverflow.com/questions/9561832/what-if-i-dont-close-the-database-connection-in-python-sqlite
+https://trekamaze.com/what-is-a-sandbag-in-climbing-climbing-jargon-explained/
+https://www.mountainproject.com/forum/topic/110889076/big-wall-ratings-dond-understand-them
+http://www.supertopo.com/climbing/thread.php?topic_id=462029&tn=40
+https://www.mountainproject.com/forum/topic/108343353/sandbagged-and-relativety-your-standard
+https://www.mountainproject.com/forum/topic/115474203/is-the-nose-sandbagged
+https://www.reddit.com/r/climbing/comments/ckikze/how_would_you_determine_the_most_sandbagged_crag/
+https://www.linkedin.com/pulse/inputting-data-google-search-using-selenium-kartikey-garg/
+https://stackoverflow.com/questions/34759787/fetch-all-href-link-using-selenium-in-python
+https://stackoverflow.com/questions/60856419/how-to-click-on-the-first-google-search-result-with-python-selenium

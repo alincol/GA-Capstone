@@ -17,3 +17,16 @@ http://www.supertopo.com/climbing/thread.php?topic_id=462029&tn=40
 https://www.mountainproject.com/forum/topic/108343353/sandbagged-and-relativety-your-standard
 https://www.mountainproject.com/forum/topic/115474203/is-the-nose-sandbagged
 https://www.reddit.com/r/climbing/comments/ckikze/how_would_you_determine_the_most_sandbagged_crag/
+https://www.linkedin.com/pulse/inputting-data-google-search-using-selenium-kartikey-garg/
+https://stackoverflow.com/questions/34759787/fetch-all-href-link-using-selenium-in-python
+https://stackoverflow.com/questions/60856419/how-to-click-on-the-first-google-search-result-with-python-selenium
+https://www.geeksforgeeks.org/python-convert-string-dictionary-to-dictionary/
+https://stackoverflow.com/questions/55872164/how-to-rotate-proxies-on-a-python-requests
+https://github.com/Ge0rg3/requests-ip-rotator
+https://betterprogramming.pub/faster-web-scraping-in-python-using-multithreading-496da9eaf0c2
+https://stackoverflow.com/questions/19342331/python-map-calling-a-function-not-working
+https://thispointer.com/python-how-to-use-global-variables-in-a-function/#:~:text=with%20same%20name%20%3F-,Use%20of%20%E2%80%9Cglobal%E2%80%A0keyword%20to%20modify%20global%20variable%20inside,at%20start%20of%20function%20i.e.
+https://www.w3schools.com/python/ref_func_open.asp
+https://superfastpython.com/multithreaded-file-append/
+https://stackoverflow.com/questions/61226137/how-to-pass-the-lock-in-my-concurrent-futures-processpoolexecutor-in-python
+https://stackoverflow.com/questions/3276180/extracting-date-from-a-string-in-python

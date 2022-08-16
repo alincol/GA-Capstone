@@ -1,10 +1,13 @@
 #ignore database folder
 sql-db/
-open-beta-routes/
-data/
 sitemap-files/
 old-files/
+open-beta-routes/
+data/
 webscraper-files/
 accesskeys.py
+.DS_Store
+.ipynb_checkpoints/
+archive/.ipynb_checkpoints/
 
 __pycache__

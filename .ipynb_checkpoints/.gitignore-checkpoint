@@ -1,9 +1,0 @@
-#ignore database folder
-sql-db/
-open-beta-routes/
-data/
-sitemap-files/
-old-files/
-
-accesskeys.py
-

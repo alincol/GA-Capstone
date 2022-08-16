@@ -49,7 +49,7 @@ Any given iteration of the models could only predict 5-10% accuracy above the nu
 
 ### Further Reduction of Classes
 Here is our best test confusion matrix from the models with the full number of classes:
-[Final Test Confusion Matrix with Full Classes](./archive/fullclassesmatrix.png)
+![Final Test Confusion Matrix with Full Classes](./archive/fullclassesmatrix.png)
 
 
 

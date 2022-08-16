@@ -43,3 +43,17 @@ https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
 https://discuss.pytorch.org/t/why-do-we-need-to-set-the-gradients-manually-to-zero-in-pytorch/4903/20
 https://www.honchosearch.com/blog/seo/how-to-download-files-from-google-colab/#:~:text=To%20download%20a%20file%20for,then%20this%20won't%20work.&text=Once%20executed%2C%20this%20will%20download%20the%20file%20directly%20to%20your%20downloads.
 https://smltar.com/stopwords.html
+https://www.rei.com/learn/expert-advice/climbing-bouldering-rating.html
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/
+https://towardsdatascience.com/fasttext-under-the-hood-11efc57b2b3#:~:text=FastText%20allows%20you%20to%20train,as%20initializers%20for%20transfer%20learning.
+https://machinelearningmastery.com/multinomial-logistic-regression-with-python/#:~:text=Logistic%20regression%20is%20a%20classification,to%20as%20binary%20classification%20problems.
+https://machinelearningmastery.com/discrete-probability-distributions-for-machine-learning/
+https://machinelearningmastery.com/repeated-k-fold-cross-validation-with-python/
+https://stackoverflow.com/questions/69807486/is-there-any-ideal-parameter-values-for-fasttext-train-supervised-function
+https://fasttext.cc/docs/en/autotune.html
+https://github.com/facebookresearch/fastText/blob/master/README.md
+https://fasttext.cc/docs/en/options.html
+http://ethen8181.github.io/machine-learning/deep_learning/multi_label/fasttext.html
+https://ashutoshtripathi.com/2020/09/04/word2vec-and-semantic-similarity-using-spacy-nlp-spacy-series-part-7/
+https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d

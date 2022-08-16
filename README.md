@@ -49,9 +49,27 @@ Any given iteration of the models could only predict 5-10% accuracy above the nu
 
 ### Further Reduction of Classes
 Here is our best test confusion matrix from the models with the full number of classes:
+
 ![Final Test Confusion Matrix with Full Classes](./archive/fullclassesmatrix.png)
 
+You can see that the predictions cluster around 7, 10, and 12, clusters that were also seen during EDA. After a few iterations of class reduction, our final reduced classes are:
 
+| Group | Grade     | % Dataset |
+|-------|-----------|-----------|
+| 0     | 5.0-5.8   | 58%       |
+| 1     | 5.9-5.11  | 27%       |
+| 2     | 5.12-5.15 | 14%       |
 
+This grouping still sees a massive class imbalance, but by grouping the data the way that it was clustering, we saw a 10% gain in accuracy from the null, and a 20% reduction in the MAE from the grouped null model.
 
-## Further Considerations
+![Final Test Confusion Matrix with Reduced Classes](./archive/3groupstestmatrix.png)
+
+The model still heavily over-predicts the majority class, but this grouping shows there are some discernable differences between the groups.
+
+## Conclusion
+This dataset proved to be far more tricky to work with than anticipated, especially the deep class imbalances. The intuition I had going into it was that manipulation of the text itself would have noticeable positive effects on the modeling outcomes, but the variety of cleaning methods I tried had essentially no effect. Same for addition of features from other columns within the dataset. The only noteworthy change we saw was when the number of classes was greatly reduced, and this improvement for the most part was an artifact of reducing the amount of "wrong" the model could be. The only exception is the final grouping, in which we reduced to 3 groups: easy, intermediate, and difficult. These groupings played to the strength of the model, while also highlighting potential clustering we saw during EDA. 
+
+Ultimately, what this process has shown us is that there is likely no significant difference in the way that routes of different grades are described. However, further methods should be explored.
+
+## Future Work
+
